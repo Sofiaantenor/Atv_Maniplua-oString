@@ -1,0 +1,13 @@
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.exe
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.deps.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.runtimeconfig.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.runtimeconfig.dev.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\bin\Debug\netcoreapp3.1\ManipulacaoString.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.csprojAssemblyReference.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.AssemblyInfoInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.AssemblyInfo.cs
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.csproj.CoreCompileInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\ManipulaçãoString\ManipulacaoString\obj\Debug\netcoreapp3.1\ManipulacaoString.genruntimeconfig.cache
